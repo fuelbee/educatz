@@ -58,6 +58,7 @@ h1{
 img{
 	margin-top:0px;
 	background-color: #FFF5FF;
+	border:2px solid black;
 }
 .top{
 	margin-top:30px;
