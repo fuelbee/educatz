@@ -58,7 +58,6 @@ h1{
 img{
 	margin-top:0px;
 	background-color: #FFF5FF;
-	
 }
 .top{
 	margin-top:30px;
@@ -69,7 +68,10 @@ img{
 body{
 	background-color: #FFF5FF;
 }
+.img-thumbnail{
 
+background-color: #FFF5FF;
+}
 
 
 /*navbar*/
